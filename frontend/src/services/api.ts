@@ -1,8 +1,8 @@
 import axios from 'axios';
 import type { Product, ChatResponse } from '../types';
 
-// Use /_/backend/api for Vercel production, fallback to localhost for development
-const API_BASE_URL = import.meta.env.PROD ? '/_/backend/api' : 'http://localhost:5000/api';
+// Use VITE_API_URL from environment variables, fallback to localhost for development
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
@@ -41,10 +41,10 @@ export const getImageUrl = (path: string) => {
   if (path.startsWith('data:')) {
     return path; // It's already a base64 data URI
   }
-  
-  if (import.meta.env.PROD) {
-    return `/_/backend${path}`;
-  }
-  
-  return `http://localhost:5000${path}`;
+
+  const baseUrl = import.meta.env.VITE_API_URL 
+    ? import.meta.env.VITE_API_URL.replace(/\/api$/, '') 
+    : 'http://localhost:5000';
+    
+  return `${baseUrl}${path}`;
 };
