@@ -47,12 +47,23 @@ Output MUST be a JSON object with this exact schema:
  */
 export const analyzeProductImage = async (productId: string, imageUrl: string) => {
   try {
-    const imagePath = path.join(__dirname, '../../', imageUrl);
-    const imageBuffer = fs.readFileSync(imagePath);
-    const base64Image = imageBuffer.toString('base64');
-    
-    const ext = path.extname(imagePath).toLowerCase();
-    const mimeType = ext === '.png' ? 'image/png' : 'image/jpeg';
+    let base64Image = '';
+    let mimeType = 'image/jpeg';
+
+    if (imageUrl.startsWith('data:')) {
+      const parts = imageUrl.split(';');
+      mimeType = parts[0].split(':')[1];
+      base64Image = parts[1].replace('base64,', '');
+    } else {
+      // Fallback for older locally stored products
+      const imagePath = path.join(__dirname, '../../', imageUrl);
+      if (fs.existsSync(imagePath)) {
+        const imageBuffer = fs.readFileSync(imagePath);
+        base64Image = imageBuffer.toString('base64');
+        const ext = path.extname(imagePath).toLowerCase();
+        mimeType = ext === '.png' ? 'image/png' : 'image/jpeg';
+      }
+    }
 
     const visionSystemPrompt = `You are an expert AI Product Claims Agent. Your task is to extract information from product packaging images.
 Analyze the image and return exactly a JSON object with the following schema:

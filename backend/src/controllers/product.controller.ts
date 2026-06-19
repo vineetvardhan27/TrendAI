@@ -10,7 +10,8 @@ export const uploadProduct = async (req: Request, res: Response) => {
       return res.status(400).json({ error: 'Image file is required' });
     }
     
-    const imageUrl = `/uploads/${req.file.filename}`;
+    const base64String = req.file.buffer.toString('base64');
+    const imageUrl = `data:${req.file.mimetype};base64,${base64String}`;
     
     const product = await productService.createPendingProduct(
       brandName || 'Unknown Brand', 
