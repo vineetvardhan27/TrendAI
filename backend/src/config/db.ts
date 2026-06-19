@@ -6,8 +6,8 @@ const connectDB = async () => {
     const conn = await mongoose.connect(uri);
     console.log(`MongoDB Connected: ${conn.connection.host}`);
   } catch (error) {
-    console.error(`Error: ${(error as Error).message}`);
-    process.exit(1);
+    console.error(`MongoDB Connection Error: ${(error as Error).message}`);
+    // Removed process.exit(1) so it doesn't crash the Vercel serverless function container
   }
 };
 
