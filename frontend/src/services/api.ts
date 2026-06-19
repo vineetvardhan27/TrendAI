@@ -8,6 +8,17 @@ const api = axios.create({
   baseURL: API_BASE_URL,
 });
 
+api.interceptors.response.use(
+  (response) => response,
+  (error) => {
+    if (error.response && error.response.status === 429) {
+      console.error('Rate limit exceeded:', error.response.data);
+      return Promise.reject(new Error(error.response.data.error || 'Too many requests, please try again later.'));
+    }
+    return Promise.reject(error);
+  }
+);
+
 export const getProducts = async (): Promise<Product[]> => {
   const response = await api.get('/products');
   return response.data;
