@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    @apply bg-background text-primary antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #0e1220;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #1e2a3a;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #2d3a4f;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-card/80 backdrop-blur-sm border border-border rounded-2xl;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4), 0 0 0 1px rgba(255,255,255,0.04);
+  }
+  .glass-card-hover {
+    @apply glass-card transition-all duration-200 hover:border-accent/30 hover:shadow-glow-accent/10;
+  }
+  .badge {
+    @apply inline-flex items-center px-2.5 py-1 rounded-md text-xs font-semibold;
+  }
+  .btn-primary {
+    @apply bg-accent text-white px-5 py-2.5 rounded-xl font-semibold text-sm
+           hover:bg-accent-glow transition-all duration-200 
+           disabled:opacity-40 disabled:cursor-not-allowed;
+    box-shadow: 0 0 20px -8px rgba(99,102,241,0.3);
+  }
+  .btn-primary:hover:not(:disabled) {
+    box-shadow: 0 0 30px -5px rgba(99,102,241,0.5);
+  }
+  .input-dark {
+    @apply w-full px-4 py-3 bg-surface border border-border rounded-xl text-primary
+           focus:outline-none focus:ring-2 focus:ring-accent/30 focus:border-accent/60
+           transition-all placeholder-secondary font-medium;
+  }
+  .nav-link {
+    @apply flex items-center space-x-3 px-3 py-2.5 rounded-xl transition-all duration-200
+           text-secondary hover:text-primary hover:bg-muted font-medium text-sm;
+  }
+  .nav-link-active {
+    @apply bg-accent-dim text-accent-glow border border-accent/20 font-semibold;
+    box-shadow: 0 0 20px -8px rgba(99,102,241,0.5);
+  }
+  .stat-card {
+    @apply glass-card p-5 flex flex-col justify-between;
+  }
+  .gradient-text {
+    @apply bg-gradient-to-r from-accent-glow to-purple-400 bg-clip-text text-transparent;
+  }
+}

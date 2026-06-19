@@ -1,0 +1,1589 @@
+[
+  {
+    "brand": "Garden of Life",
+    "productName": "Garden of Life Beauty Boost",
+    "category": "Beauty",
+    "ingredients": [
+      "Biotin",
+      "Zinc",
+      "Vitamin E"
+    ],
+    "claims": [
+      "Hydrates skin",
+      "Promotes a healthy glow"
+    ],
+    "revenue": 594807
+  },
+  {
+    "brand": "Vital Proteins",
+    "productName": "Vital Proteins Deep Sleep Formula",
+    "category": "Sleep",
+    "ingredients": [
+      "Melatonin",
+      "L-Theanine"
+    ],
+    "claims": [
+      "Supports relaxation",
+      "Wake up refreshed",
+      "Non-habit forming"
+    ],
+    "revenue": 772486
+  },
+  {
+    "brand": "New Chapter",
+    "productName": "New Chapter Clarity & Focus",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Bacopa Monnieri",
+      "Lion's Mane"
+    ],
+    "claims": [
+      "Reduces mental fatigue",
+      "Neuroprotective",
+      "Improves focus and clarity",
+      "Enhances memory"
+    ],
+    "revenue": 2602575
+  },
+  {
+    "brand": "Care/of",
+    "productName": "Care/of Clarity & Focus",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Ginkgo Biloba",
+      "Bacopa Monnieri",
+      "Lion's Mane",
+      "Phosphatidylserine"
+    ],
+    "claims": [
+      "Supports brain function",
+      "Enhances memory",
+      "Improves focus and clarity",
+      "Neuroprotective"
+    ],
+    "revenue": 673021
+  },
+  {
+    "brand": "Vital Proteins",
+    "productName": "Vital Proteins Rest & Relax",
+    "category": "Sleep",
+    "ingredients": [
+      "Valerian Root",
+      "Chamomile",
+      "Ashwagandha"
+    ],
+    "claims": [
+      "Promotes restful sleep",
+      "Supports relaxation",
+      "Wake up refreshed"
+    ],
+    "revenue": 2580667
+  },
+  {
+    "brand": "SmartyPants",
+    "productName": "SmartyPants Fat Burner",
+    "category": "Weight Management",
+    "ingredients": [
+      "Apple Cider Vinegar",
+      "Green Coffee Bean",
+      "CLA"
+    ],
+    "claims": [
+      "Controls appetite",
+      "Promotes fat burning"
+    ],
+    "revenue": 3592556
+  },
+  {
+    "brand": "Ritual",
+    "productName": "Ritual Fat Burner",
+    "category": "Weight Management",
+    "ingredients": [
+      "CLA",
+      "Garcinia Cambogia",
+      "Chromium",
+      "Apple Cider Vinegar"
+    ],
+    "claims": [
+      "Boosts metabolism",
+      "Supports weight management"
+    ],
+    "revenue": 3402995
+  },
+  {
+    "brand": "Nature's Bounty",
+    "productName": "Nature's Bounty Neuro Health",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Ginkgo Biloba",
+      "Omega-3",
+      "Lion's Mane"
+    ],
+    "claims": [
+      "Neuroprotective",
+      "Enhances memory",
+      "Supports brain function",
+      "Reduces mental fatigue"
+    ],
+    "revenue": 3309392
+  },
+  {
+    "brand": "Athletic Greens",
+    "productName": "Athletic Greens Fiber Gummies",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Probiotics",
+      "Inulin",
+      "Prebiotics"
+    ],
+    "claims": [
+      "Promotes gut health",
+      "Supports healthy digestion"
+    ],
+    "revenue": 547387
+  },
+  {
+    "brand": "Athletic Greens",
+    "productName": "Athletic Greens Fiber Gummies",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Probiotics",
+      "Prebiotics"
+    ],
+    "claims": [
+      "Balances microflora",
+      "Reduces bloating"
+    ],
+    "revenue": 2050185
+  },
+  {
+    "brand": "New Chapter",
+    "productName": "New Chapter Hair, Skin & Nails",
+    "category": "Beauty",
+    "ingredients": [
+      "Zinc",
+      "Vitamin A",
+      "Vitamin E",
+      "Hyaluronic Acid"
+    ],
+    "claims": [
+      "Improves skin elasticity",
+      "Strengthens hair and nails",
+      "Promotes a healthy glow",
+      "Hydrates skin"
+    ],
+    "revenue": 4540400
+  },
+  {
+    "brand": "New Chapter",
+    "productName": "New Chapter Clarity & Focus",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "L-Theanine",
+      "Phosphatidylserine",
+      "Bacopa Monnieri",
+      "Lion's Mane"
+    ],
+    "claims": [
+      "Enhances memory",
+      "Reduces mental fatigue"
+    ],
+    "revenue": 3798598
+  },
+  {
+    "brand": "SmartyPants",
+    "productName": "SmartyPants Nootropic Blend",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "L-Theanine",
+      "Ginkgo Biloba"
+    ],
+    "claims": [
+      "Reduces mental fatigue",
+      "Neuroprotective",
+      "Improves focus and clarity"
+    ],
+    "revenue": 3271801
+  },
+  {
+    "brand": "NOW Foods",
+    "productName": "NOW Foods Nighttime Recovery",
+    "category": "Sleep",
+    "ingredients": [
+      "Melatonin",
+      "GABA"
+    ],
+    "claims": [
+      "Supports relaxation",
+      "Non-habit forming",
+      "Wake up refreshed"
+    ],
+    "revenue": 3730336
+  },
+  {
+    "brand": "HUM Nutrition",
+    "productName": "HUM Nutrition Sleep Gummies",
+    "category": "Sleep",
+    "ingredients": [
+      "Melatonin",
+      "L-Theanine"
+    ],
+    "claims": [
+      "Promotes restful sleep",
+      "Wake up refreshed",
+      "Supports relaxation"
+    ],
+    "revenue": 1348863
+  },
+  {
+    "brand": "NOW Foods",
+    "productName": "NOW Foods Brain Focus",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Omega-3",
+      "Phosphatidylserine",
+      "Lion's Mane",
+      "Bacopa Monnieri"
+    ],
+    "claims": [
+      "Supports brain function",
+      "Enhances memory",
+      "Improves focus and clarity",
+      "Neuroprotective"
+    ],
+    "revenue": 321264
+  },
+  {
+    "brand": "Thorne",
+    "productName": "Thorne Clear Skin",
+    "category": "Beauty",
+    "ingredients": [
+      "Hyaluronic Acid",
+      "Vitamin A",
+      "Zinc",
+      "Keratin"
+    ],
+    "claims": [
+      "Promotes a healthy glow",
+      "Anti-aging support"
+    ],
+    "revenue": 2621352
+  },
+  {
+    "brand": "NOW Foods",
+    "productName": "NOW Foods Pre & Probiotic",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Inulin",
+      "Peppermint"
+    ],
+    "claims": [
+      "Promotes gut health",
+      "Balances microflora",
+      "Supports healthy digestion"
+    ],
+    "revenue": 2616707
+  },
+  {
+    "brand": "Care/of",
+    "productName": "Care/of Elderberry Gummies",
+    "category": "Immunity",
+    "ingredients": [
+      "Vitamin C",
+      "Zinc",
+      "Vitamin D3"
+    ],
+    "claims": [
+      "Antioxidant support",
+      "Supports overall health",
+      "Boosts immune system",
+      "High potency"
+    ],
+    "revenue": 3201781
+  },
+  {
+    "brand": "SmartyPants",
+    "productName": "SmartyPants Nighttime Recovery",
+    "category": "Sleep",
+    "ingredients": [
+      "Melatonin",
+      "Magnesium"
+    ],
+    "claims": [
+      "Promotes restful sleep",
+      "Wake up refreshed",
+      "Reduces stress"
+    ],
+    "revenue": 4876859
+  },
+  {
+    "brand": "SmartyPants",
+    "productName": "SmartyPants Digestive Enzymes",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Ginger",
+      "Digestive Enzymes",
+      "Prebiotics"
+    ],
+    "claims": [
+      "Supports healthy digestion",
+      "Balances microflora",
+      "Reduces bloating",
+      "Promotes gut health"
+    ],
+    "revenue": 1679365
+  },
+  {
+    "brand": "Nature's Bounty",
+    "productName": "Nature's Bounty Clarity & Focus",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Omega-3",
+      "Lion's Mane"
+    ],
+    "claims": [
+      "Supports brain function",
+      "Enhances memory",
+      "Improves focus and clarity",
+      "Reduces mental fatigue"
+    ],
+    "revenue": 4678927
+  },
+  {
+    "brand": "Thorne",
+    "productName": "Thorne Memory Support",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Omega-3",
+      "Ginkgo Biloba"
+    ],
+    "claims": [
+      "Neuroprotective",
+      "Improves focus and clarity"
+    ],
+    "revenue": 2417724
+  },
+  {
+    "brand": "Care/of",
+    "productName": "Care/of Daily Immunity",
+    "category": "Immunity",
+    "ingredients": [
+      "Vitamin C",
+      "Zinc"
+    ],
+    "claims": [
+      "Year-round protection",
+      "Boosts immune system",
+      "High potency"
+    ],
+    "revenue": 986697
+  },
+  {
+    "brand": "OLLY",
+    "productName": "OLLY Apple Cider Vinegar Gummies",
+    "category": "Weight Management",
+    "ingredients": [
+      "Chromium",
+      "CLA",
+      "MCT Oil",
+      "Garcinia Cambogia"
+    ],
+    "claims": [
+      "Supports weight management",
+      "Keto-friendly"
+    ],
+    "revenue": 2016915
+  },
+  {
+    "brand": "Vital Proteins",
+    "productName": "Vital Proteins Sleep Support",
+    "category": "Sleep",
+    "ingredients": [
+      "Magnesium",
+      "Melatonin"
+    ],
+    "claims": [
+      "Supports relaxation",
+      "Non-habit forming",
+      "Wake up refreshed"
+    ],
+    "revenue": 3995346
+  },
+  {
+    "brand": "Garden of Life",
+    "productName": "Garden of Life Neuro Health",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Bacopa Monnieri",
+      "Omega-3"
+    ],
+    "claims": [
+      "Neuroprotective",
+      "Improves focus and clarity",
+      "Enhances memory"
+    ],
+    "revenue": 1342962
+  },
+  {
+    "brand": "Goli Nutrition",
+    "productName": "Goli Nutrition Daily Immunity",
+    "category": "Immunity",
+    "ingredients": [
+      "Turmeric",
+      "Vitamin C",
+      "Vitamin D3"
+    ],
+    "claims": [
+      "High potency",
+      "Boosts immune system",
+      "Supports overall health"
+    ],
+    "revenue": 4178382
+  },
+  {
+    "brand": "Ritual",
+    "productName": "Ritual Clarity & Focus",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Lion's Mane",
+      "Omega-3",
+      "Phosphatidylserine"
+    ],
+    "claims": [
+      "Enhances memory",
+      "Improves focus and clarity",
+      "Neuroprotective"
+    ],
+    "revenue": 4048622
+  },
+  {
+    "brand": "Vital Proteins",
+    "productName": "Vital Proteins Brain Focus",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Bacopa Monnieri",
+      "Lion's Mane",
+      "Phosphatidylserine",
+      "Omega-3"
+    ],
+    "claims": [
+      "Supports brain function",
+      "Reduces mental fatigue",
+      "Enhances memory"
+    ],
+    "revenue": 2879276
+  },
+  {
+    "brand": "Thorne",
+    "productName": "Thorne Deep Sleep Formula",
+    "category": "Sleep",
+    "ingredients": [
+      "Melatonin",
+      "L-Theanine",
+      "Magnesium"
+    ],
+    "claims": [
+      "Supports relaxation",
+      "Non-habit forming"
+    ],
+    "revenue": 2728382
+  },
+  {
+    "brand": "Athletic Greens",
+    "productName": "Athletic Greens Apple Cider Vinegar Gummies",
+    "category": "Weight Management",
+    "ingredients": [
+      "Apple Cider Vinegar",
+      "CLA",
+      "Green Coffee Bean",
+      "Chromium"
+    ],
+    "claims": [
+      "Controls appetite",
+      "Promotes fat burning"
+    ],
+    "revenue": 4982740
+  },
+  {
+    "brand": "Liquid I.V.",
+    "productName": "Liquid I.V. Rest & Relax",
+    "category": "Sleep",
+    "ingredients": [
+      "Melatonin",
+      "Ashwagandha",
+      "Magnesium"
+    ],
+    "claims": [
+      "Supports relaxation",
+      "Non-habit forming",
+      "Promotes restful sleep"
+    ],
+    "revenue": 4042743
+  },
+  {
+    "brand": "New Chapter",
+    "productName": "New Chapter Nootropic Blend",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Omega-3",
+      "Phosphatidylserine",
+      "Ginkgo Biloba"
+    ],
+    "claims": [
+      "Supports brain function",
+      "Enhances memory",
+      "Improves focus and clarity"
+    ],
+    "revenue": 4004734
+  },
+  {
+    "brand": "Liquid I.V.",
+    "productName": "Liquid I.V. Collagen Peptides",
+    "category": "Beauty",
+    "ingredients": [
+      "Vitamin E",
+      "Hyaluronic Acid",
+      "Vitamin A",
+      "Keratin"
+    ],
+    "claims": [
+      "Promotes a healthy glow",
+      "Strengthens hair and nails",
+      "Hydrates skin"
+    ],
+    "revenue": 3202777
+  },
+  {
+    "brand": "OLLY",
+    "productName": "OLLY Collagen Peptides",
+    "category": "Beauty",
+    "ingredients": [
+      "Vitamin A",
+      "Collagen"
+    ],
+    "claims": [
+      "Improves skin elasticity",
+      "Strengthens hair and nails",
+      "Anti-aging support"
+    ],
+    "revenue": 3936877
+  },
+  {
+    "brand": "Vital Proteins",
+    "productName": "Vital Proteins Metabolism Boost",
+    "category": "Weight Management",
+    "ingredients": [
+      "Apple Cider Vinegar",
+      "Green Coffee Bean"
+    ],
+    "claims": [
+      "Keto-friendly",
+      "Promotes fat burning",
+      "Controls appetite",
+      "Boosts metabolism"
+    ],
+    "revenue": 2224977
+  },
+  {
+    "brand": "HUM Nutrition",
+    "productName": "HUM Nutrition Digestive Enzymes",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Psyllium Husk",
+      "Ginger",
+      "Digestive Enzymes",
+      "Peppermint"
+    ],
+    "claims": [
+      "Supports healthy digestion",
+      "Balances microflora"
+    ],
+    "revenue": 2423413
+  },
+  {
+    "brand": "Care/of",
+    "productName": "Care/of Immune Support",
+    "category": "Immunity",
+    "ingredients": [
+      "Vitamin C",
+      "Zinc",
+      "Elderberry",
+      "Echinacea"
+    ],
+    "claims": [
+      "Boosts immune system",
+      "Antioxidant support",
+      "High potency",
+      "Year-round protection"
+    ],
+    "revenue": 663572
+  },
+  {
+    "brand": "SmartyPants",
+    "productName": "SmartyPants Fat Burner",
+    "category": "Weight Management",
+    "ingredients": [
+      "Apple Cider Vinegar",
+      "Green Coffee Bean",
+      "Chromium"
+    ],
+    "claims": [
+      "Keto-friendly",
+      "Controls appetite",
+      "Promotes fat burning"
+    ],
+    "revenue": 4626746
+  },
+  {
+    "brand": "NOW Foods",
+    "productName": "NOW Foods Pre & Probiotic",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Probiotics",
+      "Prebiotics"
+    ],
+    "claims": [
+      "Supports healthy digestion",
+      "Promotes gut health",
+      "Reduces bloating"
+    ],
+    "revenue": 3735780
+  },
+  {
+    "brand": "SmartyPants",
+    "productName": "SmartyPants Daily Immunity",
+    "category": "Immunity",
+    "ingredients": [
+      "Ginger",
+      "Echinacea"
+    ],
+    "claims": [
+      "Boosts immune system",
+      "Supports overall health",
+      "High potency",
+      "Antioxidant support"
+    ],
+    "revenue": 977833
+  },
+  {
+    "brand": "Vital Proteins",
+    "productName": "Vital Proteins Metabolism Boost",
+    "category": "Weight Management",
+    "ingredients": [
+      "CLA",
+      "MCT Oil"
+    ],
+    "claims": [
+      "Keto-friendly",
+      "Promotes fat burning",
+      "Controls appetite",
+      "Boosts metabolism"
+    ],
+    "revenue": 948985
+  },
+  {
+    "brand": "MegaFood",
+    "productName": "MegaFood Appetite Control",
+    "category": "Weight Management",
+    "ingredients": [
+      "Chromium",
+      "Apple Cider Vinegar"
+    ],
+    "claims": [
+      "Promotes fat burning",
+      "Supports weight management",
+      "Keto-friendly"
+    ],
+    "revenue": 4046648
+  },
+  {
+    "brand": "Liquid I.V.",
+    "productName": "Liquid I.V. Metabolism Boost",
+    "category": "Weight Management",
+    "ingredients": [
+      "CLA",
+      "Green Coffee Bean",
+      "Garcinia Cambogia",
+      "Apple Cider Vinegar"
+    ],
+    "claims": [
+      "Supports weight management",
+      "Boosts metabolism"
+    ],
+    "revenue": 3494209
+  },
+  {
+    "brand": "Liquid I.V.",
+    "productName": "Liquid I.V. Sleep Support",
+    "category": "Sleep",
+    "ingredients": [
+      "Magnesium",
+      "GABA",
+      "Chamomile",
+      "Ashwagandha"
+    ],
+    "claims": [
+      "Non-habit forming",
+      "Supports relaxation",
+      "Reduces stress",
+      "Promotes restful sleep"
+    ],
+    "revenue": 1186831
+  },
+  {
+    "brand": "Nature's Bounty",
+    "productName": "Nature's Bounty B12 Complex",
+    "category": "Energy",
+    "ingredients": [
+      "Vitamin B12",
+      "Maca Root",
+      "Caffeine"
+    ],
+    "claims": [
+      "Cellular energy support",
+      "Enhances energy levels"
+    ],
+    "revenue": 2955470
+  },
+  {
+    "brand": "SmartyPants",
+    "productName": "SmartyPants Clarity & Focus",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "L-Theanine",
+      "Omega-3",
+      "Ginkgo Biloba"
+    ],
+    "claims": [
+      "Supports brain function",
+      "Enhances memory",
+      "Improves focus and clarity",
+      "Neuroprotective"
+    ],
+    "revenue": 1554796
+  },
+  {
+    "brand": "Goli Nutrition",
+    "productName": "Goli Nutrition Daily Immunity",
+    "category": "Immunity",
+    "ingredients": [
+      "Vitamin C",
+      "Zinc"
+    ],
+    "claims": [
+      "Boosts immune system",
+      "Antioxidant support"
+    ],
+    "revenue": 1578315
+  },
+  {
+    "brand": "Goli Nutrition",
+    "productName": "Goli Nutrition Clear Skin",
+    "category": "Beauty",
+    "ingredients": [
+      "Hyaluronic Acid",
+      "Vitamin E",
+      "Vitamin A"
+    ],
+    "claims": [
+      "Anti-aging support",
+      "Strengthens hair and nails"
+    ],
+    "revenue": 2843020
+  },
+  {
+    "brand": "Liquid I.V.",
+    "productName": "Liquid I.V. Gut Health",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Ginger",
+      "Probiotics",
+      "Inulin",
+      "Prebiotics"
+    ],
+    "claims": [
+      "Balances microflora",
+      "Reduces bloating"
+    ],
+    "revenue": 1898651
+  },
+  {
+    "brand": "Athletic Greens",
+    "productName": "Athletic Greens Memory Support",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "L-Theanine",
+      "Omega-3",
+      "Ginkgo Biloba",
+      "Phosphatidylserine"
+    ],
+    "claims": [
+      "Reduces mental fatigue",
+      "Improves focus and clarity"
+    ],
+    "revenue": 4063301
+  },
+  {
+    "brand": "Goli Nutrition",
+    "productName": "Goli Nutrition Rest & Relax",
+    "category": "Sleep",
+    "ingredients": [
+      "L-Theanine",
+      "Melatonin",
+      "Chamomile"
+    ],
+    "claims": [
+      "Wake up refreshed",
+      "Non-habit forming",
+      "Reduces stress"
+    ],
+    "revenue": 2116765
+  },
+  {
+    "brand": "SmartyPants",
+    "productName": "SmartyPants Daily Probiotic",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Digestive Enzymes",
+      "Psyllium Husk",
+      "Ginger"
+    ],
+    "claims": [
+      "Promotes gut health",
+      "Dairy-free",
+      "Balances microflora",
+      "Supports healthy digestion"
+    ],
+    "revenue": 1893996
+  },
+  {
+    "brand": "OLLY",
+    "productName": "OLLY Hair, Skin & Nails",
+    "category": "Beauty",
+    "ingredients": [
+      "Collagen",
+      "Biotin",
+      "Hyaluronic Acid",
+      "Zinc"
+    ],
+    "claims": [
+      "Anti-aging support",
+      "Strengthens hair and nails"
+    ],
+    "revenue": 898352
+  },
+  {
+    "brand": "Care/of",
+    "productName": "Care/of Memory Support",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Phosphatidylserine",
+      "Bacopa Monnieri",
+      "Lion's Mane",
+      "L-Theanine"
+    ],
+    "claims": [
+      "Supports brain function",
+      "Enhances memory"
+    ],
+    "revenue": 886518
+  },
+  {
+    "brand": "OLLY",
+    "productName": "OLLY Pre & Probiotic",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Digestive Enzymes",
+      "Inulin",
+      "Prebiotics"
+    ],
+    "claims": [
+      "Balances microflora",
+      "Promotes gut health",
+      "Reduces bloating"
+    ],
+    "revenue": 3738220
+  },
+  {
+    "brand": "Nature's Bounty",
+    "productName": "Nature's Bounty Hair, Skin & Nails",
+    "category": "Beauty",
+    "ingredients": [
+      "Vitamin A",
+      "Zinc",
+      "Hyaluronic Acid",
+      "Vitamin E"
+    ],
+    "claims": [
+      "Strengthens hair and nails",
+      "Anti-aging support"
+    ],
+    "revenue": 1479138
+  },
+  {
+    "brand": "Thorne",
+    "productName": "Thorne Collagen Peptides",
+    "category": "Beauty",
+    "ingredients": [
+      "Vitamin A",
+      "Keratin"
+    ],
+    "claims": [
+      "Improves skin elasticity",
+      "Promotes a healthy glow",
+      "Strengthens hair and nails"
+    ],
+    "revenue": 1724287
+  },
+  {
+    "brand": "OLLY",
+    "productName": "OLLY Daily Probiotic",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Inulin",
+      "Peppermint",
+      "Prebiotics"
+    ],
+    "claims": [
+      "Promotes gut health",
+      "Supports healthy digestion",
+      "Dairy-free"
+    ],
+    "revenue": 3954473
+  },
+  {
+    "brand": "Garden of Life",
+    "productName": "Garden of Life B12 Complex",
+    "category": "Energy",
+    "ingredients": [
+      "CoQ10",
+      "Rhodiola"
+    ],
+    "claims": [
+      "Enhances energy levels",
+      "Sustained energy without crash",
+      "Supports focus"
+    ],
+    "revenue": 4186316
+  },
+  {
+    "brand": "MegaFood",
+    "productName": "MegaFood Hair, Skin & Nails",
+    "category": "Beauty",
+    "ingredients": [
+      "Hyaluronic Acid",
+      "Biotin",
+      "Vitamin A",
+      "Keratin"
+    ],
+    "claims": [
+      "Improves skin elasticity",
+      "Anti-aging support",
+      "Promotes a healthy glow",
+      "Strengthens hair and nails"
+    ],
+    "revenue": 1898726
+  },
+  {
+    "brand": "HUM Nutrition",
+    "productName": "HUM Nutrition Rest & Relax",
+    "category": "Sleep",
+    "ingredients": [
+      "Magnesium",
+      "GABA",
+      "Melatonin"
+    ],
+    "claims": [
+      "Non-habit forming",
+      "Reduces stress"
+    ],
+    "revenue": 3760075
+  },
+  {
+    "brand": "Liquid I.V.",
+    "productName": "Liquid I.V. Apple Cider Vinegar Gummies",
+    "category": "Weight Management",
+    "ingredients": [
+      "CLA",
+      "MCT Oil"
+    ],
+    "claims": [
+      "Keto-friendly",
+      "Controls appetite"
+    ],
+    "revenue": 2411236
+  },
+  {
+    "brand": "Liquid I.V.",
+    "productName": "Liquid I.V. Fiber Gummies",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Digestive Enzymes",
+      "Ginger",
+      "Inulin"
+    ],
+    "claims": [
+      "Reduces bloating",
+      "Balances microflora",
+      "Promotes gut health"
+    ],
+    "revenue": 1921816
+  },
+  {
+    "brand": "Nature's Bounty",
+    "productName": "Nature's Bounty B12 Complex",
+    "category": "Energy",
+    "ingredients": [
+      "CoQ10",
+      "Rhodiola"
+    ],
+    "claims": [
+      "Cellular energy support",
+      "Metabolism boost",
+      "Supports focus"
+    ],
+    "revenue": 2437763
+  },
+  {
+    "brand": "OLLY",
+    "productName": "OLLY Memory Support",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Omega-3",
+      "Phosphatidylserine",
+      "Lion's Mane"
+    ],
+    "claims": [
+      "Supports brain function",
+      "Enhances memory",
+      "Neuroprotective",
+      "Reduces mental fatigue"
+    ],
+    "revenue": 4697772
+  },
+  {
+    "brand": "Vital Proteins",
+    "productName": "Vital Proteins Energy Boost",
+    "category": "Energy",
+    "ingredients": [
+      "Caffeine",
+      "Rhodiola",
+      "CoQ10"
+    ],
+    "claims": [
+      "Enhances energy levels",
+      "Sustained energy without crash",
+      "Supports focus",
+      "Metabolism boost"
+    ],
+    "revenue": 2516018
+  },
+  {
+    "brand": "Thorne",
+    "productName": "Thorne Energy Boost",
+    "category": "Energy",
+    "ingredients": [
+      "CoQ10",
+      "Green Tea Extract",
+      "Rhodiola"
+    ],
+    "claims": [
+      "Metabolism boost",
+      "Enhances energy levels",
+      "Sustained energy without crash",
+      "Cellular energy support"
+    ],
+    "revenue": 2774280
+  },
+  {
+    "brand": "Goli Nutrition",
+    "productName": "Goli Nutrition Glow Gummies",
+    "category": "Beauty",
+    "ingredients": [
+      "Zinc",
+      "Vitamin E",
+      "Biotin"
+    ],
+    "claims": [
+      "Strengthens hair and nails",
+      "Improves skin elasticity",
+      "Hydrates skin"
+    ],
+    "revenue": 350072
+  },
+  {
+    "brand": "Athletic Greens",
+    "productName": "Athletic Greens Nootropic Blend",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Bacopa Monnieri",
+      "Ginkgo Biloba"
+    ],
+    "claims": [
+      "Reduces mental fatigue",
+      "Supports brain function",
+      "Enhances memory"
+    ],
+    "revenue": 3843679
+  },
+  {
+    "brand": "New Chapter",
+    "productName": "New Chapter Beauty Boost",
+    "category": "Beauty",
+    "ingredients": [
+      "Vitamin A",
+      "Vitamin E",
+      "Collagen",
+      "Biotin"
+    ],
+    "claims": [
+      "Anti-aging support",
+      "Hydrates skin"
+    ],
+    "revenue": 4002391
+  },
+  {
+    "brand": "Nature's Bounty",
+    "productName": "Nature's Bounty Brain Focus",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Lion's Mane",
+      "Ginkgo Biloba",
+      "Omega-3"
+    ],
+    "claims": [
+      "Improves focus and clarity",
+      "Neuroprotective",
+      "Enhances memory"
+    ],
+    "revenue": 2036003
+  },
+  {
+    "brand": "SmartyPants",
+    "productName": "SmartyPants Vitamin C Complex",
+    "category": "Immunity",
+    "ingredients": [
+      "Vitamin C",
+      "Turmeric",
+      "Echinacea",
+      "Zinc"
+    ],
+    "claims": [
+      "Boosts immune system",
+      "Year-round protection"
+    ],
+    "revenue": 1324604
+  },
+  {
+    "brand": "New Chapter",
+    "productName": "New Chapter Digestive Enzymes",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Ginger",
+      "Digestive Enzymes",
+      "Psyllium Husk",
+      "Peppermint"
+    ],
+    "claims": [
+      "Supports healthy digestion",
+      "Balances microflora"
+    ],
+    "revenue": 438045
+  },
+  {
+    "brand": "SmartyPants",
+    "productName": "SmartyPants Immune Support",
+    "category": "Immunity",
+    "ingredients": [
+      "Vitamin C",
+      "Turmeric"
+    ],
+    "claims": [
+      "Antioxidant support",
+      "High potency",
+      "Supports overall health"
+    ],
+    "revenue": 2828914
+  },
+  {
+    "brand": "Goli Nutrition",
+    "productName": "Goli Nutrition Appetite Control",
+    "category": "Weight Management",
+    "ingredients": [
+      "CLA",
+      "Garcinia Cambogia"
+    ],
+    "claims": [
+      "Controls appetite",
+      "Keto-friendly",
+      "Supports weight management"
+    ],
+    "revenue": 4209431
+  },
+  {
+    "brand": "New Chapter",
+    "productName": "New Chapter Immune Defense",
+    "category": "Immunity",
+    "ingredients": [
+      "Vitamin C",
+      "Zinc",
+      "Vitamin D3"
+    ],
+    "claims": [
+      "Boosts immune system",
+      "Antioxidant support",
+      "Year-round protection"
+    ],
+    "revenue": 450812
+  },
+  {
+    "brand": "Nature's Bounty",
+    "productName": "Nature's Bounty Gut Health",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Probiotics",
+      "Prebiotics",
+      "Digestive Enzymes",
+      "Ginger"
+    ],
+    "claims": [
+      "Dairy-free",
+      "Promotes gut health"
+    ],
+    "revenue": 3015275
+  },
+  {
+    "brand": "Garden of Life",
+    "productName": "Garden of Life Collagen Peptides",
+    "category": "Beauty",
+    "ingredients": [
+      "Keratin",
+      "Collagen",
+      "Biotin"
+    ],
+    "claims": [
+      "Hydrates skin",
+      "Promotes a healthy glow",
+      "Improves skin elasticity"
+    ],
+    "revenue": 3211495
+  },
+  {
+    "brand": "Thorne",
+    "productName": "Thorne Nighttime Recovery",
+    "category": "Sleep",
+    "ingredients": [
+      "Ashwagandha",
+      "GABA",
+      "Magnesium",
+      "L-Theanine"
+    ],
+    "claims": [
+      "Supports relaxation",
+      "Wake up refreshed"
+    ],
+    "revenue": 2611614
+  },
+  {
+    "brand": "OLLY",
+    "productName": "OLLY Daily Immunity",
+    "category": "Immunity",
+    "ingredients": [
+      "Vitamin C",
+      "Elderberry",
+      "Echinacea",
+      "Ginger"
+    ],
+    "claims": [
+      "High potency",
+      "Supports overall health"
+    ],
+    "revenue": 566221
+  },
+  {
+    "brand": "Garden of Life",
+    "productName": "Garden of Life Metabolism Boost",
+    "category": "Weight Management",
+    "ingredients": [
+      "Apple Cider Vinegar",
+      "Green Coffee Bean"
+    ],
+    "claims": [
+      "Promotes fat burning",
+      "Controls appetite"
+    ],
+    "revenue": 3584334
+  },
+  {
+    "brand": "MegaFood",
+    "productName": "MegaFood Sleep Support",
+    "category": "Sleep",
+    "ingredients": [
+      "Chamomile",
+      "L-Theanine"
+    ],
+    "claims": [
+      "Non-habit forming",
+      "Wake up refreshed",
+      "Supports relaxation",
+      "Promotes restful sleep"
+    ],
+    "revenue": 1454011
+  },
+  {
+    "brand": "Vital Proteins",
+    "productName": "Vital Proteins Daily Immunity",
+    "category": "Immunity",
+    "ingredients": [
+      "Elderberry",
+      "Zinc"
+    ],
+    "claims": [
+      "High potency",
+      "Year-round protection"
+    ],
+    "revenue": 3554615
+  },
+  {
+    "brand": "HUM Nutrition",
+    "productName": "HUM Nutrition Nootropic Blend",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "L-Theanine",
+      "Ginkgo Biloba"
+    ],
+    "claims": [
+      "Reduces mental fatigue",
+      "Neuroprotective",
+      "Improves focus and clarity"
+    ],
+    "revenue": 825779
+  },
+  {
+    "brand": "Nature's Bounty",
+    "productName": "Nature's Bounty Collagen Peptides",
+    "category": "Beauty",
+    "ingredients": [
+      "Collagen",
+      "Biotin",
+      "Hyaluronic Acid",
+      "Vitamin E"
+    ],
+    "claims": [
+      "Improves skin elasticity",
+      "Promotes a healthy glow",
+      "Strengthens hair and nails"
+    ],
+    "revenue": 1899738
+  },
+  {
+    "brand": "Goli Nutrition",
+    "productName": "Goli Nutrition Immune Support",
+    "category": "Immunity",
+    "ingredients": [
+      "Zinc",
+      "Echinacea",
+      "Elderberry"
+    ],
+    "claims": [
+      "Boosts immune system",
+      "Antioxidant support",
+      "Year-round protection",
+      "Supports overall health"
+    ],
+    "revenue": 484555
+  },
+  {
+    "brand": "Liquid I.V.",
+    "productName": "Liquid I.V. Sleep Support",
+    "category": "Sleep",
+    "ingredients": [
+      "Melatonin",
+      "L-Theanine"
+    ],
+    "claims": [
+      "Reduces stress",
+      "Wake up refreshed",
+      "Non-habit forming",
+      "Supports relaxation"
+    ],
+    "revenue": 3344226
+  },
+  {
+    "brand": "Thorne",
+    "productName": "Thorne Elderberry Gummies",
+    "category": "Immunity",
+    "ingredients": [
+      "Turmeric",
+      "Elderberry"
+    ],
+    "claims": [
+      "Year-round protection",
+      "High potency"
+    ],
+    "revenue": 4122784
+  },
+  {
+    "brand": "Ritual",
+    "productName": "Ritual Glow Gummies",
+    "category": "Beauty",
+    "ingredients": [
+      "Zinc",
+      "Collagen"
+    ],
+    "claims": [
+      "Improves skin elasticity",
+      "Strengthens hair and nails",
+      "Anti-aging support"
+    ],
+    "revenue": 3122837
+  },
+  {
+    "brand": "Liquid I.V.",
+    "productName": "Liquid I.V. Fiber Gummies",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Inulin",
+      "Probiotics"
+    ],
+    "claims": [
+      "Dairy-free",
+      "Promotes gut health"
+    ],
+    "revenue": 296365
+  },
+  {
+    "brand": "Liquid I.V.",
+    "productName": "Liquid I.V. Clear Skin",
+    "category": "Beauty",
+    "ingredients": [
+      "Vitamin A",
+      "Collagen",
+      "Keratin",
+      "Vitamin E"
+    ],
+    "claims": [
+      "Anti-aging support",
+      "Strengthens hair and nails",
+      "Promotes a healthy glow",
+      "Hydrates skin"
+    ],
+    "revenue": 1532384
+  },
+  {
+    "brand": "Care/of",
+    "productName": "Care/of Focus & Energy",
+    "category": "Energy",
+    "ingredients": [
+      "CoQ10",
+      "Rhodiola",
+      "Ginseng"
+    ],
+    "claims": [
+      "Cellular energy support",
+      "Metabolism boost",
+      "Enhances energy levels",
+      "Sustained energy without crash"
+    ],
+    "revenue": 4793189
+  },
+  {
+    "brand": "NOW Foods",
+    "productName": "NOW Foods Neuro Health",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Lion's Mane",
+      "L-Theanine",
+      "Omega-3"
+    ],
+    "claims": [
+      "Supports brain function",
+      "Reduces mental fatigue",
+      "Enhances memory",
+      "Improves focus and clarity"
+    ],
+    "revenue": 452114
+  },
+  {
+    "brand": "New Chapter",
+    "productName": "New Chapter Sleep Gummies",
+    "category": "Sleep",
+    "ingredients": [
+      "GABA",
+      "L-Theanine",
+      "Chamomile",
+      "Magnesium"
+    ],
+    "claims": [
+      "Supports relaxation",
+      "Promotes restful sleep",
+      "Wake up refreshed"
+    ],
+    "revenue": 800504
+  },
+  {
+    "brand": "Liquid I.V.",
+    "productName": "Liquid I.V. Nootropic Blend",
+    "category": "Cognitive Health",
+    "ingredients": [
+      "Bacopa Monnieri",
+      "Ginkgo Biloba",
+      "Phosphatidylserine",
+      "L-Theanine"
+    ],
+    "claims": [
+      "Reduces mental fatigue",
+      "Improves focus and clarity",
+      "Enhances memory"
+    ],
+    "revenue": 2540152
+  },
+  {
+    "brand": "OLLY",
+    "productName": "OLLY Hair, Skin & Nails",
+    "category": "Beauty",
+    "ingredients": [
+      "Collagen",
+      "Zinc"
+    ],
+    "claims": [
+      "Improves skin elasticity",
+      "Strengthens hair and nails",
+      "Hydrates skin",
+      "Anti-aging support"
+    ],
+    "revenue": 4514487
+  },
+  {
+    "brand": "SmartyPants",
+    "productName": "SmartyPants Digestive Enzymes",
+    "category": "Digestive Health",
+    "ingredients": [
+      "Probiotics",
+      "Prebiotics",
+      "Digestive Enzymes",
+      "Inulin"
+    ],
+    "claims": [
+      "Reduces bloating",
+      "Balances microflora",
+      "Promotes gut health",
+      "Supports healthy digestion"
+    ],
+    "revenue": 3890177
+  },
+  {
+    "brand": "Nature's Bounty",
+    "productName": "Nature's Bounty Deep Sleep Formula",
+    "category": "Sleep",
+    "ingredients": [
+      "Melatonin",
+      "GABA"
+    ],
+    "claims": [
+      "Promotes restful sleep",
+      "Wake up refreshed"
+    ],
+    "revenue": 3941949
+  }
+]
