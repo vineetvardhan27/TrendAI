@@ -3,7 +3,7 @@ import Groq from 'groq-sdk';
 import fs from 'fs';
 import path from 'path';
 
-const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
+const groq = new Groq({ apiKey: process.env.GROQ_API_KEY || 'missing_key' });
 
 /**
  * Agent 2: Market Matching Agent
